@@ -1,0 +1,44 @@
+h1{
+    color:#c80404
+}
+H3{
+    color: #ed0e0e;
+    font-style: italic;
+}
+li{
+    color: #760707;
+}
+.item-third{
+text-decoration: line-through;
+
+}
+
+.item-four{
+    background-color: #f4df00;
+}
+span{
+    font-weight: bold;
+}
+.item-five{
+    text-decoration: underline;
+    font-style: italic;
+}
+h1{
+    color: #c80404;
+}
+h2{
+    color: #ed0e0e;
+    font-style: italic;
+}
+a {
+    background-color: #f4df00; color: #760707;font-style: italic;
+}
+p {
+    color: #760707;
+}
+span {
+    background-color: #f4df00;
+}
+ul {
+    letter-spacing:1cqb;
+}
